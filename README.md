@@ -25,4 +25,4 @@ I wasn’t born with a mission. I grew up as a people-pleaser in a fear-based ho
 I’m not here to speculate. I investigate. I trace global power, challenge inherited narratives, and document contradictions—publicly, and with evidence.
 
 Read the full context:  
-➡️ [`/docs/why`](https://solarchive.github.io/earth-journal/docs/why)
+➡️ [`/why`](https://solarchive.github.io/earth-journal/why)
